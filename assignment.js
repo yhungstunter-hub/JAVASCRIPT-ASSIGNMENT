@@ -68,7 +68,7 @@ switch(true){
                 break;
 
                 default:
-                    console.log("NO GRADING");
+                    console.log("NO GRADING") ;
                     break;
 }
 
